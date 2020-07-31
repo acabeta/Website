@@ -4,6 +4,11 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+function sentMsg() {
+  document. getElementsByClassName("sent-message").style.display = "block";
+}
+
 !(function($) {
   "use strict";
 
